@@ -17,6 +17,9 @@ Sorting: Events can be sorted by date and location.
 
 Hide Past Events: Events that have already occurred are automatically hidden from the main event page.
 
+Test: This test suite verifies the presence of specific <div> elements, including "Contact Us", "About", and "FAQ", within the Footer component.
+
+
 Installation
 Clone the repository and npm install
 Set up environment variables: Add necessary environment variables for authentication.
