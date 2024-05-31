@@ -1,4 +1,4 @@
-Eventify is an event management system built with React/Next.js/Tailwind that leverages an API created in a group project.
+Eventify is an event management system built with React/Next.js/Tailwind. It leverages an API created in a group project, which is available here: https://github.com/chvlpont/event
 
 Features
 Authentication: Users can register an account and must log in to access the site. The same authentication method used in the group project is utilized.
