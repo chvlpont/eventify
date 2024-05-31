@@ -12,7 +12,7 @@ describe("Footer", () => {
   it("should render the footer containing a div with 'About'", () => {
     render(<Footer />); // ARRANGE
     const divElement = screen.getByText("About"); // ACT
-    expect(divElement).toBeInTheDocument();
+    expect(divElement).toBeInTheDocument(); // ASSERT
   });
 
   it("should render the footer containing a div with 'FAQ'", () => {
