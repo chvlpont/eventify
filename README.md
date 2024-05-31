@@ -18,8 +18,7 @@ Sorting: Events can be sorted by date and location.
 Hide Past Events: Events that have already occurred are automatically hidden from the main event page.
 
 Installation
-Clone the repository: git clone https://github.com/yourusername/eventify.git
-Install dependencies: npm install
+Clone the repository and npm install
 Set up environment variables: Add necessary environment variables for authentication.
 Start the development server: npm run dev
 Open in browser: Visit http://localhost:3000 to view the application.
