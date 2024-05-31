@@ -1,5 +1,3 @@
-Eventify - Event Management System
-Overview
 Eventify is an event management system built with React/Next.js/Tailwind that leverages an API created in a group project.
 
 Features
